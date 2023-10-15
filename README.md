@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash0708&show_icons=true&locale=en" alt="akash0708" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash0708&" alt="akash0708" /></p>
+
+![Holopin badges](https://holopin.me/akash0708)
