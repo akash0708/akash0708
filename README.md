@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash0708&label=Profile%20views&color=0e75b6&style=flat" alt="akash0708" /> </p>
 
-- 🔭 I’m currently working on **Conferenze**
+- 🔭 I’m currently working on **Dukaan**
 
-- 🌱 I’m currently learning **Next.js, Python**
+- 🌱 I’m currently learning **Next.js, TypeScript, AWS**
 
 - 👯 I’m looking to collaborate on **MERN**
 
-- 💬 Ask me about **React, Node**
+- 💬 Ask me about **React, Node.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
